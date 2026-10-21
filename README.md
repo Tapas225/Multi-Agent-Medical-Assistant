@@ -294,7 +294,7 @@ docker logs medical-assistant-app
 
 ### 1️⃣ Clone the Repository  
 ```bash  
-git clone https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant.git  
+git clone https://github.com/Tapas225/Multi-Agent-Medical-Assistant.git  
 cd Multi-Agent-Medical-Assistant  
 ```
 
