@@ -182,7 +182,7 @@ If you like what you see and would want to support the project's developer, you 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant.git
+git clone https://github.com/Tapas225/Multi-Agent-Medical-Assistant.git
 cd Multi-Agent-Medical-Assistant
 ```
 
