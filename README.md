@@ -370,7 +370,7 @@ python ingest_rag_data.py --dir ./data/raw
 ---
 
 ## 🤝 Contributions  <a name="contributions"></a>
-Contributions are welcome! Please check the [issues](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/issues) tab for feature requests and improvements.  
+Contributions are welcome! Please check the [issues](https://github.com/Tapas225/Multi-Agent-Medical-Assistant/issues) tab for feature requests and improvements.  
 
 ---
 
@@ -396,9 +396,9 @@ This project is licensed under the **Apache-2.0 License**. See the [LICENSE](LIC
 ## 📬 Contact  <a name="contact"></a>
 For any questions or collaboration inquiries, reach out to **Souvik Majumder** on:  
 
-🔗 **LinkedIn**: [https://www.linkedin.com/in/souvikmajumder26](https://www.linkedin.com/in/souvikmajumder26)
+🔗 **LinkedIn**: [https://www.linkedin.com/in/souvikmajumder26](www.linkedin.com/in/tapas-talati)
 
-🔗 **GitHub**: [https://github.com/souvikmajumder26](https://github.com/souvikmajumder26)
+🔗 **GitHub**: [https://github.com/souvikmajumder26]( https://github.com/Tapas225)
 
 <p align="right">
  <a href="#top"><b>🔝 Return </b></a>
