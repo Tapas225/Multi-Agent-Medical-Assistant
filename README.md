@@ -25,7 +25,7 @@
 > 1. **Document Processing Upgrade**: Unstructured.io has been replaced with Docling for document parsing and extraction of text, tables, and images to be embedded.
 > 2. **Enhanced RAG References**: Links to source documents and reference images present in reranked retrieved chunks stored in local storage are added to the bottom of the RAG responses.
 >
-> To use Unstructured.io based solution, refer release - [v2.0](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/tree/v2.0).
+> To use Unstructured.io based solution, refer release - [v2.0](https://github.com/Tapas225/Multi-Agent-Medical-Assistant/tree/v2.0).
  
 ## 📚 Table of Contents
 - [Overview](#overview)
